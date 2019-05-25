@@ -1,0 +1,13 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(250,207,217);
+}
+
+h1, h3{
+    color: white;
+    font-family: "Comic Sans MS";
+}
